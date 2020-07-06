@@ -1,0 +1,55 @@
+body{
+  background-color: black;
+}
+
+#txt, #demo, #demo2, #link{
+  color: white;
+}
+#link{
+  text-decoration: none;
+  background-color: orange;
+}
+
+
+#first p{
+
+  margin: 10px;
+  border: 1px solid black;
+
+  width: 40%;
+  height: 5%;
+  padding: 50px 0px;
+  display: inline-block;
+  overflow: hidden;
+
+}
+
+#blue{
+  background-color: blue;
+}
+
+#red{
+  background-color: red;
+}
+
+
+#sec p{
+
+  margin: 10px;
+  border: 1px solid black;
+
+  width: 40%;
+  height: 5%;
+  padding: 50px 0px;
+  display: inline-block;
+  overflow: hidden;
+
+}
+
+#yellow{
+  background-color:  Gold;
+}
+
+#green{
+  background-color: green;
+}
